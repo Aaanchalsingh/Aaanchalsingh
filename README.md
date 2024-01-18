@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aanchalsingh2003) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aanchal98654594) 
 
-[LeetCode](https://leetcode.com/Aanchall) : 500+ Problems (Data Structures and Algorithms)
+[LeetCode](https://leetcode.com/Aanchall) : 600+ Problems (Data Structures and Algorithms)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Aanchall)
 
